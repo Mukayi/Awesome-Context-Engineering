@@ -1289,6 +1289,8 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
         <img src="https://img.shields.io/github/stars/kaichennj/MDTeamGPT.svg?style=social" alt="GitHub stars">
     </a>
 </li>
+<li><i><b>Improving Factuality and Reasoning in Language Models through Multi-Agent Debate</b></i>, Du et al., <a href="https://arxiv.org/abs/2305.14325" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a>
+</li>  
 </ul>
 
 
@@ -1342,6 +1344,8 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
     </a></li>
 <li><i><b>Model Context Protocol (MCP)</b></i>, Anthropic, <a href="https://github.com/modelcontextprotocol" target="_blank"><img src="https://img.shields.io/badge/GitHub-2024-white" alt="GitHub Badge"></a>
     </li>
+<li><i><b>Improving Factuality and Reasoning in Language Models through Multi-Agent Debate</b></i>, Du et al., <a href="https://arxiv.org/abs/2305.14325" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.05-red" alt="arXiv Badge"></a>
+</li>
 </ul>
 
 
@@ -1364,6 +1368,8 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
     <a href="https://github.com/quchangle1/LLM-Tool-Survey" target="_blank">
   		<img src="https://img.shields.io/github/stars/quchangle1/LLM-Tool-Survey.svg?style=social" alt="GitHub stars">
     </a></li>
+<li><i><b>WebGPT: Browser-assisted question-answering with human feedback</b></i>, Nakano et al., <a href="https://arxiv.org/abs/2112.09332" target="_blank"><img src="https://img.shields.io/badge/OpenAI TR-2021.12-red" alt="OpenAI TR Badge"></a>
+    </li>
 </ul>
 
 
@@ -1497,6 +1503,14 @@ This discipline is foundational for unlocking the full potential of LLMs in prod
 <ul>
 <li><i><b>AI for Science 2025: Convergence of AI Innovation and Scientific Discovery</b></i>, Fink et al., <a href="https://doi.org/10.1038/d41573-025-00161-3" target="_blank"><img src="https://img.shields.io/badge/Nature-2025.05-blue" alt="Nature Badge"></a></li>
 <li><i><b>Towards Scientific Discovery with Generative AI: Progress, Opportunities, and Challenges</b></i>, Anonymous et al., <a href="https://arxiv.org/abs/2412.11427" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.12-red" alt="arXiv Badge"></a></li>
+</ul>
+
+<b>Agents for Deep Research</b>
+
+<ul>
+  <li><i><b>A Survey on Large Language Model based Autonomous Agents</b></i>, Weng et al., <a href="https://arxiv.org/abs/2308.11432" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.08-red" alt="arXiv Badge"></a></li>
+  <li><i><b>Generative Agents: Interactive Simulacra of Human Behavior</b></i>, Park et al., <a href="https://arxiv.org/abs/2304.03442" target="_blank"><img src="https://img.shields.io/badge/UIST-2023.04-blue" alt="UIST Badge"></a> <a href="https://github.com/joonspk-research/generative_agents" target="_blank"><img src="https://img.shields.io/github/stars/joonspk-research/generative_agents.svg?style=social" alt="GitHub stars"></a></li>
+  <li><i><b>Introducing Devin, the first AI software engineer</b></i>, Cognition AI, <a href="https://www.cognition-labs.com/blog/introducing-devin" target="_blank"><img src="https://img.shields.io/badge/Blog-2024.03-red" alt="Blog Badge"></a></li>
 </ul>
 
 <b>Deep Research Applications</b>
